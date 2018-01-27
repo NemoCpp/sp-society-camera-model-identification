@@ -1,3 +1,14 @@
+
+# Standard file ignores
+*#
+*~
+*.log
+*.status
+*.m4
+*.o
+
+# The rest is from: https://github.com/github/gitignore/blob/master/Python.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
